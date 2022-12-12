@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Vladislav777888.github.io/project-html-css",
+  "homepage": "https://Artem0521.github.io/project-html-css",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-html-css/"
@@ -28,3 +28,4 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+
